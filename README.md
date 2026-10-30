@@ -1,0 +1,2 @@
+EN IMPORTANT: when downloading via the terminal, write “apt search (program name)” and copy the program’s ID from the second line, for example, Mozilla.Firefox.ESR.ur. However, the program is sourced from safe sources, but not always from official ones, so download at your own risk.
+RU Важно скачиваниие через терминал примеру apt search firefox и вам выдает во 2 строчки айди программы для скачивании пример: Mozilla.Firefox.ESR.ur но терминал берет с безопасных НО не всегда с офицальных так что скачивайте на свой страх и риск.
